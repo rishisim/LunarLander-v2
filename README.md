@@ -18,13 +18,5 @@ https://github.com/rishisim/LunarLander-v2/assets/86998121/7838a5e9-2854-4d0c-bc
 Environment: [LunarLander-v2](https://gymnasium.farama.org/environments/box2d/lunar_lander/)
 Library: [stable-baselines3](https://github.com/DLR-RM/stable-baselines3)
 Model: Proximal Policy Optimization (PPO)
-value: 206.92 +/- 53.53
-
-tags:
-- LunarLander-v2
-- deep-reinforcement-learning
-- reinforcement-learning
-- stable-baselines3
-
-
+Mean Reward +/- Std. Dev.: 206.92 +/- 53.53
 
