@@ -4,7 +4,7 @@ This is a trained model of a **PPO** agent playing **LunarLander-v2** using the 
 
 Using Google Colab, I trained my first Deep Reinforcement Learning agent, a Lunar Lander agent that will learn to land correctly on the moon using Stable-Baselines3.
 
-I trained the agent for 1,000,000 timesteps, resulting in a mean award of 206.92 +/- 53.53.
+I trained the agent for 1,000,000 timesteps, resulting in a mean reward of 206.92 +/- 53.53.
 
 To improve the model:
 - Train more steps
